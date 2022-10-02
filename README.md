@@ -1,23 +1,6 @@
 # my-repository
 
-test file
 
-<pre>
-
-<code>
-
-This is a code
-
-</code>
-</pre>
-
-text
-
-    code
-    
-text
-
-```This is a code```
-
->Hello
->>Welcome
+1. 수박
+2. 메론
+3. 딸기
